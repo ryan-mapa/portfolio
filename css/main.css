@@ -311,6 +311,7 @@ a:not([href]):not([tabindex]):hover {
 }
 #video-area .contents {
   padding: 160px 0 80px;
+  height: 500px;
 }
 #video-area .contents h1 {
   color: #fff;
@@ -320,7 +321,7 @@ a:not([href]):not([tabindex]):hover {
   line-height: 70px;
 }
 #video-area .contents p {
-  font-size: 14px;
+  font-size: 24px;
   color: #fff;
   font-weight: 400;
   line-height: 30px;
