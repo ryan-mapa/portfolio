@@ -5,6 +5,14 @@ svg {
   height: 120px;
 }
 
+.devicon-react-original {
+  font-size: 120px;
+}
+
+.misaligned {
+  margin-top: 5px;
+}
+
 body {
   font-family: 'Lato', sans-serif;
   color: #333;
